@@ -1,2 +1,2 @@
 # GLIMS
-The official repository for the GLIMS model as a BraTS 2023 submission.
+The official repository of the GLIMS model as a BraTS 2023 submission.
