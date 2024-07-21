@@ -2,6 +2,22 @@
 
 This repository contains the code of GLIMS. <br /><br /> **GLIMS** ranked in the **top 5 among 65 unique submissions** during the validation phase of the Adult Glioblastoma Segmentation challenge of BraTS 2023.
 
+## Installation
+
+### Clone the repository
+
+```
+git clone https://github.com/yaziciz/GLIMS.git
+cd GLIMS
+```
+
+### Install the required dependencies
+
+With your virtual environment activated, install the project's dependencies:
+```
+pip install -r requirements.txt
+```
+
 ## Usage Instructions
 
 ### Running the Main Script
