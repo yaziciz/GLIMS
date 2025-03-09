@@ -35,6 +35,8 @@ By using the pre-trained model, the validation phase can be performed as follows
 python post_validation.py --output_dir <output_directory> --data_dir <data_directory> --json_list <json_list_file> --fold <fold_number> --pretrained_dir <pretrained_model_directory>
 ```
 ## Testing with Model Ensembles
+The model weights can be accessed here: [Google Drive Folder](https://drive.google.com/drive/folders/1_bLuR9fw5lgOb6I5iPnRL9djmMal2BWX?usp=sharing)
+
 To test GLIMS by using the ensemble method on the unannotated BraTS 2023 dataset, the following script can be used: 
 
 ```bash
