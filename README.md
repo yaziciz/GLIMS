@@ -13,9 +13,9 @@ cd GLIMS
 
 ### Install the required dependencies
 
-With your virtual environment activated, install the project's dependencies:
+By using Conda, create a virtual environment and install the project's dependencies:
 ```
-pip install -r requirements.txt
+conda env create -f environment.yml
 ```
 
 ## Usage Instructions
